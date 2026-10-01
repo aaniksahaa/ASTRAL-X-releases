@@ -2,9 +2,13 @@
 
 ## A Fundamental Computational Redesign for Scalable Coalescent-Based Species Tree Inference
 
-> **Current availability:** ASTRAL-X release archives are available from this
-> repository's [Releases page](../../releases). We plan to open-source ASTRAL-X
-> soon.
+> **ASTRAL-X is now open source:** The complete source code, implementation,
+> documentation, and related materials are available at
+> [github.com/aaniksahaa/ASTRAL-X](https://github.com/aaniksahaa/ASTRAL-X).
+> The ASTRAL-X manuscript is available on
+> [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.07.31.742122v2).
+> Prebuilt release archives remain available from this repository's
+> [Releases page](../../releases).
 
 ASTRAL-X is a complete algorithmic redesign of the ASTRAL framework for highly
 scalable, statistically consistent species tree inference from collections of
